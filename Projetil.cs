@@ -1,6 +1,6 @@
 using System;
 
-namespace Projétil
+namespace Projetil
 {
 
     public class Program 
